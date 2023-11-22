@@ -1,0 +1,26 @@
+Trend Analysis:
+How has paddy production in Telangana changed over the years?
+
+Area vs. Yield Impact:
+Is there a correlation between the area under cultivation and the yield per acre?
+
+Yield Analysis:
+How does the yield per acre vary across different years?
+
+Contribution of Area to Production:
+What proportion of the total production is contributed by the cultivation area each year?
+
+District-wise Production Comparison:
+Which districts in Telangana contribute the most to paddy production?
+
+Yield Analysis across Districts:
+How does the yield per acre vary across different districts?
+
+Districts with Highest Area under Cultivation:
+Which districts have the largest area under paddy cultivation?
+
+Relationship between Area and Production:
+Is there a correlation between the area under cultivation and the production of paddy within these districts?
+
+Comparison of Yield and Production:
+Which districts show a high yield despite lower production, and vice versa?
